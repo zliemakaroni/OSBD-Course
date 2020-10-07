@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="934be7f8c7e34ee9be3784cdab07f35c" Name="Diagram1">
+        <EntityTypeShape EntityType="UniversityModel.Auditories" Width="1.5" PointX="5.125" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.Days" Width="1.5" PointX="7.625" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.Faculties" Width="1.5" PointX="0.5" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.Groups" Width="1.5" PointX="2.875" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.Lessons" Width="1.5" PointX="7.625" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.Schedule" Width="1.5" PointX="5.125" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.Specialty" Width="1.5" PointX="0.5" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.Subjects" Width="1.5" PointX="1.125" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.sysdiagrams" Width="1.5" PointX="10.125" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.Teachers" Width="1.5" PointX="7.5" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.Types_Of_Lessons" Width="1.5" PointX="2" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="UniversityModel.Users" Width="1.5" PointX="10.125" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="UniversityModel.FK_Schedule_Auditories" ManuallyRouted="false" />
+        <AssociationConnector Association="UniversityModel.FK_Schedule_Days" ManuallyRouted="false" />
+        <AssociationConnector Association="UniversityModel.FK_Groups_Faculties" ManuallyRouted="false" />
+        <AssociationConnector Association="UniversityModel.FK_Groups_Specialty" ManuallyRouted="false" />
+        <AssociationConnector Association="UniversityModel.FK_Schedule_Groups" ManuallyRouted="false" />
+        <AssociationConnector Association="UniversityModel.FK_Schedule_Lessons" ManuallyRouted="false" />
+        <AssociationConnector Association="UniversityModel.FK_Schedule_Subjects" ManuallyRouted="false" />
+        <AssociationConnector Association="UniversityModel.FK_Schedule_Teachers" ManuallyRouted="false" />
+        <AssociationConnector Association="UniversityModel.FK_Schedule_Types_Of_Lessons" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

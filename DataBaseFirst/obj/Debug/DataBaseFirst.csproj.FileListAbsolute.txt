@@ -1,0 +1,13 @@
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\bin\Debug\DataBaseFirst.dll.config
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\bin\Debug\DataBaseFirst.dll
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\bin\Debug\DataBaseFirst.pdb
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\bin\Debug\EntityFramework.dll
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\bin\Debug\EntityFramework.xml
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\bin\Debug\ru\EntityFramework.resources.dll
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\obj\Debug\DataBaseFirst.csprojAssemblyReference.cache
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.CoreCompileInputs.cache
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.CopyComplete
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\obj\Debug\DataBaseFirst.dll
+E:\ШАРАГА\БГУИР\Курсач_КП_3сем\DataBaseFirst\obj\Debug\DataBaseFirst.pdb
